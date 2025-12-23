@@ -1030,13 +1030,13 @@ cloud.speed.edge	0.0
 cloud.speed.hats	0.0
 
 # lod fade distances
-lod.fadedist.orphanhd	10.0
-lod.fadedist.hd			10.0
-lod.fadedist.lod		10.0
-lod.fadedist.slod1		10.0
-lod.fadedist.slod2		15.0
+lod.fadedist.orphanhd	2.0
+lod.fadedist.hd			3.0
+lod.fadedist.lod		5.0
+lod.fadedist.slod1		8.0
+lod.fadedist.slod2		12.0
 lod.fadedist.slod3		15.0
-lod.fadedist.slod4		15.0
+lod.fadedist.slod4		20.0
 
 # sky plane
 skyplane.offset		512.0
