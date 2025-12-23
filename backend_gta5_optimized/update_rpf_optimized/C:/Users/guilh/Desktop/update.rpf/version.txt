@@ -1,0 +1,23 @@
+# Version number - the number set here will display in the game
+
+[VERSION_NUMBER]
+877-dev_ng_Live
+
+# version number for install files in non-final builds
+[INSTALL_VERSION_NUMBER]
+0
+
+# version number for savegame files in non-final builds
+[SAVEGAME_VERSION_NUMBER]
+0
+
+# version number for replay files in final builds
+[REPLAY_VERSION_NUMBER]
+4
+
+# version number for Online
+[ONLINE_VERSION_NUMBER]
+1.36
+
+# eof
+
