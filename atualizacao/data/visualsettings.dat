@@ -496,8 +496,8 @@ car.extralight.night.emissive.off	0.001
 car.emissiveMultiplier 2.00
 
 # Lod distances for vehicles
-car.lod.distance.high	0.00
-car.lod.distance.low	0.00
+car.lod.distance.high	5.00
+car.lod.distance.low	15.00
 
 # search lights...
 defaultsearchlight.length	100.0
