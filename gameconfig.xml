@@ -775,7 +775,7 @@
 					<MaxCompEntityModelInfos value="100" />
 					<MaxMloInstances value="18000" />
 					<MaxMloModelInfos value="220" />
-					<MaxPedModelInfos value="725" />
+					<MaxPedModelInfos value="1200" />
 					<MaxTimeModelInfos value="1800" />
 					<MaxVehicleModelInfos value="310" />
 					<MaxWeaponModelInfos value="115" />
