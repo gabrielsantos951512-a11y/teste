@@ -183,7 +183,7 @@
 						</Item>
 						<Item>
 							<PoolName>EntityBatch</PoolName>
-							<PoolSize value="5000"/>
+							<PoolSize value="3500"/>
 						</Item>
 						<Item>
 							<PoolName>GrassBatch</PoolName>
