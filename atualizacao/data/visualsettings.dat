@@ -695,9 +695,9 @@ pedFpslight.shadowFade	0.0
 pedFpslight.specularFade 10.000
 
 # Lod distances for peds
-ped.lod.distance.high	0.00
-ped.lod.distance.medium	0.00
-ped.lod.distance.low	0.00
+ped.lod.distance.high	3.00
+ped.lod.distance.medium	8.00
+ped.lod.distance.low	20.00
 pedincar.lod.distance.high	1.00
 pedincar.lod.distance.high.x64	1.00
 
