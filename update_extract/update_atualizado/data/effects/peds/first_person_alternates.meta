@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<FirstPersonAlternateData>
+    <alternates>
+        <Item>
+            <assetName>player_zero/uppr_015_u</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>player_zero/uppr_005_u</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>player_zero/accs_005_u</assetName>
+            <alternate value="1" />
+        </Item>
+		 <Item>
+            <assetName>player_zero/head_000_r</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>player_zero/uppr_001_u</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>player_zero/uppr_013_u</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>player_One/uppr_010_u</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>player_One/head_000_r</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>player_Two/uppr_001_u</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>player_Two/uppr_004_u</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>player_Two/uppr_009_u</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>player_Two/uppr_002_u</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>player_Two/accs_002_u</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>player_Two/uppr_014_u</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>player_Two/uppr_018_u</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>player_Two/head_000_r</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>MP_F_Freemode_01/head_000_r</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>MP_F_Freemode_01/lowr_007_r</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>MP_F_Freemode_01_female_xmas/lowr_000_r</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>MP_F_Freemode_01_female_freemode_business/lowr_001_r</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>MP_F_Freemode_01_female_freemode_valentines/jbib_000_u</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>MP_F_Freemode_01_female_freemode_hipster/jbib_006_u</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>MP_M_Freemode_01/head_000_r</assetName>
+            <alternate value="1" />
+        </Item>
+    </alternates>
+</FirstPersonAlternateData>
