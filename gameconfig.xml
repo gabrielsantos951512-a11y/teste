@@ -14,7 +14,7 @@
 
 						<Item>
 							<PoolName>AnimatedBuilding</PoolName>
-							<PoolSize value="600"/>
+							<PoolSize value="400"/>
 						</Item>
 						<Item>
 							<PoolName>AttachmentExtension</PoolName>
