@@ -374,7 +374,7 @@
 						</Item>
 						<Item>
 							<PoolName>TxdStore</PoolName>
-							<PoolSize value="43790" />
+							<PoolSize value="85000" />
 						</Item>
 						<Item>
 							<PoolName>Vehicles</PoolName>
