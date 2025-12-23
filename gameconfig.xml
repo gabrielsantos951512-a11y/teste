@@ -170,7 +170,7 @@
 						</Item>
 						<Item>
 							<PoolName>DrawableStore</PoolName>
-							<PoolSize value="30000" />
+							<PoolSize value="75000" />
 						</Item>
 						<Item>
 							<PoolName>Dummy Object</PoolName>
